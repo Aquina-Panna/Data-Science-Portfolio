@@ -11,3 +11,4 @@ Tools
 - **LinkedIn**: www.linkedin.com/in/aquina-panna
 
 ## Projects
+1. SLU Bank Loan Campaign Prediction
