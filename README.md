@@ -3,8 +3,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 Tools
 
-- **Python**:               NumPy, Pandas, Seaborn, Matplotlib
+- **Python**:               NumPy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Selenium
 - **Machine Learning**:     scikit-learn, TensorFlow, keras
+- **Text Analytics**:       Spacy, NLTK, LDA, Collocation, Textblob, Vader
 - **Visualization Tools**:  Tableau, Qlik Sense, Data Studio
 
 - **Email**: Panna.a28@gmail.com
